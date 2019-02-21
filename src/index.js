@@ -3,5 +3,5 @@ const {
 } = require('klasa')
 
 module.exports = {
-  [plugin]: require('./lib/Weeb')
+  [plugin]: require('./lib/Weeb')[plugin]
 }
