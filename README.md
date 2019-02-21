@@ -1,1 +1,1 @@
-# klasa-plugin-lolislife
+# klasa-plugin-weeb
